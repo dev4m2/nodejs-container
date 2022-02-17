@@ -2,10 +2,10 @@
   "name": "nodejs-container",
   "version": "1.0.0",
   "description": "A sample dev container for nodejs and javascript files.",
-  "main": "app.js",
+  "main": "ajax/RandomDogPictures/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm nodemon --watch ajax/RandomDogPictures app.js"
+    "start": "nodemon --watch ajax/RandomDogPictures"
   },
   "repository": {
     "type": "git",
