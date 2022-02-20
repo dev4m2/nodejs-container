@@ -2,7 +2,7 @@
   "name": "nodejs-container",
   "version": "1.0.0",
   "description": "A sample dev container for nodejs and javascript files.",
-  "main": "ajax/BitcoinPriceChecker/app.js",
+  "main": "ajax/Fetch/fetch-ex1.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,8 +20,7 @@
   "homepage": "https://github.com/dev4m2/nodejs-container#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "node-fetch": "^3.2.0",
-    "xhr2": "^0.2.1"
+    "node-fetch": "^3.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
