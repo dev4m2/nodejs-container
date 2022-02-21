@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/ajax/Fetch/fetch-ex1.js",
+            "program": "${workspaceFolder}/ajax/Fetch/fetch-ex2.js",
             "console": "integratedTerminal"
         }
     ]
