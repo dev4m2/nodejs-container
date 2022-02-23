@@ -2,8 +2,7 @@
   "name": "nodejs-container",
   "version": "1.0.0",
   "description": "A sample dev container for nodejs and javascript files.",
-  "main": "ajax/BitcoinPriceChecker/app.js",
-  "type": "module",
+  "main": "ajax/FetchUserProfileGenerator/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --watch ajax"
