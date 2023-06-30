@@ -19,7 +19,7 @@
   "homepage": "https://github.com/dev4m2/nodejs-container#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "node-fetch": "^3.2.0",
+    "node-fetch": "^3.2.10",
     "xhr2": "^0.2.1"
   },
   "devDependencies": {
